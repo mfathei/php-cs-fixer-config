@@ -1,0 +1,1 @@
+## PhpCsFixer config files
