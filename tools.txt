@@ -1,0 +1,20 @@
+monorepo
+
+sensiolabs-de/deptrac
+
+psalm
+
+phpunit
+
+infection
+
+php-cs-fixer psr-12
+
+doctrine/coding-standard
+
+tideways
+
+openapi-psr7-validator
+
+roave/security-advisories
+
